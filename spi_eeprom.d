@@ -1,0 +1,13 @@
+spi_eeprom.o: spi_eeprom.c
+spi_eeprom.o: C:\KeilARM\ARM\INC\Philips\LPC21xx.h
+spi_eeprom.o: types.h
+spi_eeprom.o: spi_defines.h
+spi_eeprom.o: spi.h
+spi_eeprom.o: types.h
+spi_eeprom.o: spi_eeprom_defines.h
+spi_eeprom.o: spi_eeprom.h
+spi_eeprom.o: types.h
+spi_eeprom.o: delay.h
+spi_eeprom.o: types.h
+spi_eeprom.o: lcd.h
+spi_eeprom.o: types.h
